@@ -3,7 +3,7 @@
   "title": "Homebrew",
   "description": "Homebrew content for DnD5e",
   "version": "0.6.0",
-  "minimumCoreVersion": "0.6.0",
+  "minimumCoreVersion": "0.6.1",
   "compatibleCoreVersion": "1.0.0",
   "author": "KalinorIV",
   "packs": [

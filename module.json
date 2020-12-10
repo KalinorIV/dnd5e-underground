@@ -2,7 +2,7 @@
   "name": "homebrew",
   "title": "Homebrew",
   "description": "Homebrew content for DnD5e",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "1.0.0",
   "author": "KalinorIV",
@@ -70,5 +70,5 @@
   ],
   "url": "https://github.com/KalinorIV/dnd5e-underground",
   "manifest": "https://raw.githubusercontent.com/KalinorIV/dnd5e-underground/master/module.json",
-  "download": "https://github.com/KalinorIV/dnd5e-underground/archive/v0.6.2.zip"
+  "download": "https://github.com/KalinorIV/dnd5e-underground/archive/v0.6.3.zip"
 }
